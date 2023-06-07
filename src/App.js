@@ -1,9 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
+import FileUpload from './FileUpload';
 
 function App() {
   return (
-<hi> hey</hi>
+   <FileUpload/>
   );
 }
 
